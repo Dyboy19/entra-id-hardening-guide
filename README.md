@@ -191,4 +191,4 @@ The Conditional Access controls are in the Microsoft Entra section of the **CIS 
 
 Project developed as part of the SOC Analyst Jr. certification roadmap: SC-900, CompTIA Security+, SC-200.
 
-**Author:** Dylan Edeum | July 2026 (revised November 2026)
+**Author:** Dylan Edum | July 2026 (revised November 2026)
